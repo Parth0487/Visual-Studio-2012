@@ -1,0 +1,17 @@
+c:\users\parth\documents\visual studio 2012\Projects\book_world\book_world\bin\Debug\book_world.exe.config
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\bin\Debug\book_world.exe
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\bin\Debug\book_world.pdb
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.csprojResolveAssemblyReference.cache
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.login.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.Properties.Resources.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.csproj.GenerateResource.Cache
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.exe
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.pdb
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.user.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.add_book.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.view_book.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.student_info.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.view_student_info.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.issue_book.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.return_book.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\book_world\book_world\obj\Debug\book_world.book_stock.resources

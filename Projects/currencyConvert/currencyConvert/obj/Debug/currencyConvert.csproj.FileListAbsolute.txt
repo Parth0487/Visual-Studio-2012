@@ -1,0 +1,1 @@
+c:\users\parth\documents\visual studio 2012\Projects\currencyConvert\currencyConvert\bin\Debug\currencyConvert.exe.config

@@ -1,0 +1,12 @@
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\bin\Debug\my_form.exe.config
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\bin\Debug\my_form.exe
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\bin\Debug\my_form.pdb
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.csprojResolveAssemblyReference.cache
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.Properties.Resources.resources
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.csproj.GenerateResource.Cache
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.exe
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.pdb
+c:\users\parth\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.Form1.resources
+C:\Users\PARTH\documents\visual studio 2012\Projects\my_form\my_form\bin\Debug\Database1.mdf
+C:\Users\PARTH\documents\visual studio 2012\Projects\my_form\my_form\bin\Debug\Database1_log.ldf
+C:\Users\PARTH\documents\visual studio 2012\Projects\my_form\my_form\obj\Debug\my_form.Form2.resources
